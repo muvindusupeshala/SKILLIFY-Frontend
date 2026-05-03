@@ -1,0 +1,9 @@
+
+> skill-gap-mobile@1.0.0 web
+> expo start --web --port 8081 --host localhost
+
+env: load .env
+env: export EXPO_PUBLIC_API_URL EXPO_PUBLIC_API_PORT
+Starting project at C:\Users\STZ\Downloads\skill-gap-app\skill-gap-app - Copy\mobile
+› Port 8081 is being used by another process
+› Skipping dev server

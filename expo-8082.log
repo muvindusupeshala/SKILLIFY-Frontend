@@ -1,0 +1,15 @@
+
+> skill-gap-mobile@1.0.0 web
+> expo start --web --port 8082 --host localhost
+
+env: load .env
+env: export EXPO_PUBLIC_API_URL EXPO_PUBLIC_API_PORT
+Starting project at C:\Users\STZ\Downloads\skill-gap-app\skill-gap-app - Copy\mobile
+Starting Metro Bundler
+Waiting on http://localhost:8082
+Logs for your project will appear below.
+Web node_modules\expo\AppEntry.js ▓▓▓▓▓▓▓░░░░░░░░░ 44.4% (14/21)
+Web node_modules\expo\AppEntry.js ▓▓▓▓▓▓▓▓▓▓▓▓░░░░ 81.0% ( 98/138)
+Web node_modules\expo\AppEntry.js ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░ 99.4% (314/315)
+Web Bundled 10278ms node_modules\expo\AppEntry.js (319 modules)
+ LOG  [web] Logs will appear in the browser console
